@@ -1,0 +1,12 @@
+.main{
+  
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,230,45,1) 100%);
+  width: 1000px;
+ margin-left: 200px;
+
+}
+.colors li{
+  margin-right: 10px 10px;
+  text-decoration: none;
+  color: black;
+}
